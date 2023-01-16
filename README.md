@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h2><samp><strong>Luthfi Raditya Meza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /></strong></samp></h2>
+<h1><samp><strong>Luthfi Raditya Meza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /></strong></samp></h1>
 <p><samp>Information System Student <br> Data Enthusiast</samp></p>
   <br>
 
@@ -21,15 +21,14 @@
 - 👯 I’m looking to collaborate on Open source Projects
 - 📝 I regularly write articles on my [Medium](https://luthfirdty.medium.com/)
 - 💬 Ask me about Anything.
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
+
 ---
 <br>
 
 ## 💻 **Languages and Tools:** 🛠️
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=lightgrey)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter&labelColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=yellow)
