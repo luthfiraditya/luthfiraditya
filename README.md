@@ -7,7 +7,7 @@
 [![](img/linkedin.png)](https://www.linkedin.com/in/luthfiraditya)
 [![](img/medium.png)](https://medium.com/@luthfirdty/)
 [![](img/mail.png)](mailto:luthfirdty@gmail.com)
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://luthfiraditya.github.io/" target="_blank">Portfolio🌐</a></strong></h3>
 </div>
 
 ---
@@ -16,7 +16,6 @@
 
 📫 I am currently persuing my bachelor degree on Information System from Airlangga University.  My hobbies are everything about football, movie and music. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.
 
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning something new in machine learning.
 - 👯 I’m looking to collaborate on Open source Projects
