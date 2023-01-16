@@ -6,7 +6,6 @@ Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz
 
 <h2><samp>
 <strong>Luthfi Raditya Meza</strong></samp></h2>
-
 <p> <samp>Information System Student <br> Data Enthusiast </samp></p>
   <br>
 
