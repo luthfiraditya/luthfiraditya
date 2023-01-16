@@ -1,11 +1,11 @@
 
 
 <div align='center'>
-<h1>Hi Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /> </h1>
+<h1>Hi Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' />
 <p>i'm</p>
 <h2><samp>
 <strong>Luthfi Raditya Meza</strong></samp></h2>
-<p> <samp>Information System Student <br> Data Enthusiast </samp></p>
+<p> <samp>Information System Student <br> Data Enthusiast </samp></p></h1>
   <br>
 
 [![](img/linkedin.png)](https://www.linkedin.com/in/luthfiraditya)
