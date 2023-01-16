@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h3><samp><strong>Luthfi Raditya Meza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /></strong></samp></h3>
+<h2><samp><strong>Luthfi Raditya Meza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /></strong></samp></h2>
 
 <p> <samp>Information System Student <br> Data Enthusiast</samp></p>
   <br>
