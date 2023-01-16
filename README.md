@@ -21,10 +21,7 @@
 - 👯 I’m looking to collaborate on Open source Projects
 - 📝 I regularly write articles on my [Medium](https://luthfirdty.medium.com/)
 - 💬 Ask me about Anything.
-
 ---
-<br>
-
 ## 💻 **Languages and Tools:** 🛠️
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=white)
@@ -43,12 +40,11 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&labelColor=blue)
 
 ---
-<br>
-
 ## 🧐 **Knowledge of:**<br>
 
-`Recommendation System`, `GIS`, `DevOps`, `Graph Neural Network`, `Data Science & Analytics`,`data structures and algorithms`, `Object-Oriented Programming`, 
+`Recommendation System`, `GIS`, `DevOps`, `Graph Neural Network`, `Data Science & Analytics`,`data structures and algorithms`, `Object-Oriented Programming`.
 
+---
 
 ## 📝 **Latest Blog Posts**
 * [Reproducible Data Science Experiment using MLflow](https://blog.devgenius.io/reproducible-data-science-experiment-using-mlflow-6f2f6e1baa8c)
