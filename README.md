@@ -1,9 +1,8 @@
-<div align='center' style="font-size:70px">
-Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /> 
-</div>
-<div align='center' >I'm</div>
-<div align='center'>
 
+
+<div align='center'>
+<h1>Hi Folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /> </h1>
+<p>i'm</p>
 <h2><samp>
 <strong>Luthfi Raditya Meza</strong></samp></h2>
 <p> <samp>Information System Student <br> Data Enthusiast </samp></p>
