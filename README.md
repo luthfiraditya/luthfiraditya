@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1><samp><strong>Luthfi Raditya Meza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /></strong></samp></h1>
-<p><samp>Information System Student <br> Data Enthusiast</samp></p>
+<p><samp><br> Data Enthusiast</samp></p>
   <br>
 
 [![](img/linkedin.png)](https://www.linkedin.com/in/luthfiraditya)
