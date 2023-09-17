@@ -14,7 +14,7 @@
 
 ## About 👋
 
-📫 I am an aspiring Data Scientist with a passion for using business, data, and technology to create something that positively impacts society. I have a deep specialization in constructing machine learning models, which makes me a T-shaped individual. I blog about AI/ML/Data Science and my personal experience. Outside of work, I enjoy sports, reading non-fiction, and binge-watching!. I am enthusiastically looking forward to contribute to open source projects through Github.
+📫 I am an aspiring Data Scientist with a passion for using business, data, and technology to create something that positively impacts society. I have a deep specialization in constructing machine learning models, which makes me a T-shaped individual. I blog about AI/ML/Data Science and my personal experience. Outside of work, I enjoy sports, reading non-fiction, and binge-watching! I am enthusiastically looking forward to contribute to open source projects through Github.
 
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning something new in machine learning.
