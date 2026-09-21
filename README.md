@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1><samp><strong>Luthfi Raditya Meza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" align='center' /></strong></samp></h1>
-<p><samp><br> Senior Data Engineer | Head of Data at Insignia</samp></p>
+<p><samp><br> Senior Data Engineer</samp></p>
   <br>
 
 [![](img/linkedin.png)](https://www.linkedin.com/in/luthfiraditya)
@@ -14,9 +14,9 @@
 
 ## About 👋
 
-📫 I'm a Senior Data Engineer and Head of Data at Insignia, a data engineering and systems integrator consulting firm based in Jakarta. I started in data science and machine learning, and today I spend most of my time building lakehouse platforms and data migrations for retail and enterprise clients in Indonesia, mainly on Databricks and AWS.
+📫 I'm a Senior Data Enginee, a data engineering and systems integrator consulting firm based in Jakarta. I started in data science and machine learning, and today I spend most of my time building lakehouse platforms and data migrations for retail and enterprise clients in Indonesia, mainly on Databricks and AWS.
 
-I lead a cross-functional team of 20+ engineers, from sprint planning to mentoring junior and mid-level engineers, and I'm also the internal Databricks technical authority at Insignia. I split my time between client discussions (pre-sales, architecture, scoping) and hands-on implementation. Outside of work, I enjoy sports, reading non-fiction, and binge-watching.
+I lead a cross-functional team of engineers, from sprint planning to mentoring junior and mid-level engineers, and I'm also the internal Databricks technical authority at Insignia. I split my time between client discussions (pre-sales, architecture, scoping) and hands-on implementation. Outside of work, I enjoy sports, reading non-fiction, and binge-watching.
 
 - 🔭 Currently working on lakehouse platforms, warehouse migrations, and cost optimization on Databricks and AWS
 - 🌱 Currently deepening my Databricks and AWS data engineering skills
